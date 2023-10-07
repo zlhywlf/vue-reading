@@ -1,0 +1,1 @@
+cd source && pnpm i && pnpm dev
