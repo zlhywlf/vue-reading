@@ -1,6 +1,9 @@
 export default {
   title: "hello",
-  template: "<h1>{{ hello }}</h1>",
+  template: `
+    <v-card-title>title</v-card-title>
+    <v-card-text>{{ hello }}</v-card-text>
+  `,
   setup() {
     return {
       hello: "hello vue",
