@@ -1,1 +1,1 @@
-cd source && pnpm i && pnpm dev
+cd source && pnpm i && pnpm dev-esm
